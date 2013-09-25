@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          0.1_4
-Release:          2
+Version:          0.1.6
+Release:          1
 Summary:          Read and write PNG images
 Group:            Sciences/Mathematics
 License:          GPL-2 | GPL-3
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.1-4.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/png_0.1-6.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    png-devel
 
@@ -50,4 +50,5 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 776440
 - Import R-png
 - Import R-png
+
 
