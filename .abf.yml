@@ -1,4 +1,5 @@
 removed_sources:
   png_0.1-4.tar.gz: bd42bd9062ccbc85912d77dadf8a7221bc9d0f84
-sources:
   png_0.1-6.tar.gz: 02399cd06bf093e8ba70ac65a0198009499536cb
+sources:
+  png_0.1-7.tar.gz: 433aeec293faa67d1024af80097c64578b837bf7
