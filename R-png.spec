@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.1.7
-Release:          1
+Release:          2
 Summary:          Read and write PNG images
 Group:            Sciences/Mathematics
 License:          GPL-2 | GPL-3
