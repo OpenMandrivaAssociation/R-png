@@ -7,7 +7,7 @@ Release:          2
 Summary:          Read and write PNG images
 Group:            Sciences/Mathematics
 License:          GPL-2 | GPL-3
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/png_0.1-7.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    png-devel
